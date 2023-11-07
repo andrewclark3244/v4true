@@ -2,7 +2,7 @@
   <img src="public/assets/images/icon.png" />
   <h1>Art Class v4</h1>
 </div>
-A website with tons of games, apps, built-in proxy, emulator, and more fun goodies.
+A website with tons of games, apps, built-in pr0xy, emulator, and more fun goodies.
 
 ## Deploy to a cloud service
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/art-class/v4)
